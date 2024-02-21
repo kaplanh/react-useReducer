@@ -8,10 +8,9 @@
 
 ---
 
-| **What's used in this app ?**                                                           | **How use third party libraries** | **Author**                                                                       |
-| --------------------------------------------------------------------------------------- | --------------------------------- | -------------------------------------------------------------------------------- |
-
-| [useState() Hook](https://react.dev/learn#using-hooks)                                  |                                   | [Take a look at my portfolio](https://kaplanh.github.io/Portfolio_with_CssFlex/)                                                                                 |
+| **What's used in this app ?**                                                      | **How use third party libraries** | **Author**                                                    |
+| ---------------------------------------------------------------------------------- | --------------------------------- | ------------------------------------------------------------- |
+| [useState Hook](https://react.dev/learn#using-hooks)                               |                                   | [Take a look at my portfolio](https://kaplanh.github.io/Portfolio_with_CssFlex/)                                                                                 |
 | [fetch API](https://www.npmjs.com/package/react-fetch)         | npm i/yarn add axios              |     [Visit me on Linkedin](https://www.linkedin.com/in/kaplan-h/)                                                                              |
 | [react-events](https://react.dev/learn#responding-to-events)                            |                                   |                                                                                  |
 | [Semantic-Commits](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716) |                                   |                                                                                  |
