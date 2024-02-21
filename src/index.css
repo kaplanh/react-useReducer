@@ -1,15 +1,21 @@
-.active{
+.active {
     color: red;
 }
 
-.card{
+.card {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
-button{
-    color:white;
+button {
+    color: white;
     background-color: red;
     border: none;
     padding: 10px 25px;
+}
+img{
+    width: 350px;
+    height: 250px;
+    
 }
