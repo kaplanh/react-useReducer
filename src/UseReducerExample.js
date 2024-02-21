@@ -25,7 +25,7 @@ const UseReducerExample = () => {
     };
 
     return (
-        <div>
+        <div className="card">
             <button
                 onClick={getCatImage}
                 disabled={loading}
