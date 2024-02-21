@@ -17,5 +17,8 @@ button {
 img{
     width: 350px;
     height: 250px;
+    &:hover{
+        cursor: pointer;
+    }
     
 }
