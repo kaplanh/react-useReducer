@@ -1,3 +1,15 @@
 .active{
     color: red;
 }
+
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    color:white;
+    background-color: red;
+    border: none;
+    padding: 10px 25px;
+}
